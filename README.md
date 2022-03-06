@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luharuka&label=Profile%20views&color=0e75b6&style=flat" alt="luharuka" /> </p>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **DATA STRUCTURE AND ALGORITHM**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DATA ANALYTICS**
 
-- 👯 I’m looking to collaborate on **natural language processing**
+- 👯 I’m looking to collaborate on **MACHINE LEARNING**
 
 - 💬 Ask me about **data analytics, machine learning, full stack developer**
 
